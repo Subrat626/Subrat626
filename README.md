@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Subrat626@gmail.com**
 
-- 📫 Contact me **<a href="tel:+919438745716">+91-9438745716</a>**
+- 📫 Contact me <a href="tel:+919438745716">**+91-9438745716**</a>
 
 - ⚡ Fun fact **If you find my work good, consider giving it a ⭐ to show some ❤️**
 
